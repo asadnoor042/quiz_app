@@ -199,5 +199,6 @@ function setByDefault() {
   }
 }
 
-// chat gpt dark mode
-asad noor 
+
+var name =  "asad noor "
+console.log(name)
