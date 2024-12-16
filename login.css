@@ -8,7 +8,7 @@ body {
   height: 100vh;
 }
 .form-container {
-  background-color: #fff;
+  background-color: white;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   width: 360px;
@@ -19,6 +19,9 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+}
+.head a i {
+  text-decoration: none;
 }
 .head h2 {
   margin: 0;
@@ -44,7 +47,7 @@ body {
   width: 95%;
   height: 100%;
   padding: 10px;
-  border: 1px solid #cccccc;
+  border: 1px solid black;
   border-radius: 4px;
 }
 .btn {
