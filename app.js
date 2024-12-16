@@ -202,3 +202,4 @@ function setByDefault() {
 
 var name =  "asad noor "
 console.log(name)
+var qual = "intermediate"
